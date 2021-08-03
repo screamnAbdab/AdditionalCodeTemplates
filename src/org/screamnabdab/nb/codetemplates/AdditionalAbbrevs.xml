@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE codetemplates PUBLIC  "-//NetBeans//DTD Editor Code Templates settings 1.0//EN"
+                                "http://www.netbeans.org/dtds/EditorCodeTemplates-1_0.dtd">
+                                
+<codetemplates>
+    <codetemplate abbreviation="slf4j"><code><![CDATA[private static final ${loggerType type="org.slf4j.Logger" default="Logger" editable="false"} ${LOGGER} = ${factoryType type="org.slf4j.LoggerFactory" default="LoggerFactory" editable="false"}.getLogger(${mhType type="java.lang.invoke.MethodHandles" default="MethodHandles" editable="false"}.lookup().lookupClass());]]></code></codetemplate>
+</codetemplates>

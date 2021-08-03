@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: org.screamnabdab.nb.codetemplates
+OpenIDE-Module-Layer: org/screamnabdab/nb/codetemplates/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/screamnabdab/nb/codetemplates/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
